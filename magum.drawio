@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0" version="26.0.4">
   <diagram name="Página-1" id="2KZGWjl2fdi0CwkLy8pH">
-    <mxGraphModel dx="826" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,10 @@
         <mxCell id="X5MFcecDnW7EVMNdHlIu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X5MFcecDnW7EVMNdHlIu-1" target="X5MFcecDnW7EVMNdHlIu-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X5MFcecDnW7EVMNdHlIu-1" value="Processa o pagamento do pedido" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="X5MFcecDnW7EVMNdHlIu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X5MFcecDnW7EVMNdHlIu-1" target="X5MFcecDnW7EVMNdHlIu-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X5MFcecDnW7EVMNdHlIu-1" value="Processa o pagamento do pedido" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X5MFcecDnW7EVMNdHlIu-3" value="Compre sua peça" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -32,7 +35,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X5MFcecDnW7EVMNdHlIu-9" value="Recebe o pedido" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X5MFcecDnW7EVMNdHlIu-9" value="Recebe o pedido" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="280" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X5MFcecDnW7EVMNdHlIu-11" value="Magnum" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -44,7 +47,7 @@
         <mxCell id="X5MFcecDnW7EVMNdHlIu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X5MFcecDnW7EVMNdHlIu-17" target="X5MFcecDnW7EVMNdHlIu-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X5MFcecDnW7EVMNdHlIu-17" value="Transporta produto" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="X5MFcecDnW7EVMNdHlIu-17" value="Transporta produto" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X5MFcecDnW7EVMNdHlIu-19" value="Envia pedido para transporte" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -61,6 +64,12 @@
         </mxCell>
         <mxCell id="X5MFcecDnW7EVMNdHlIu-26" value="Entrega" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X5MFcecDnW7EVMNdHlIu-27" value="Cliente recebe o retorno" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X5MFcecDnW7EVMNdHlIu-29" value="Pedido - Pagamento não aprovado" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="30" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
