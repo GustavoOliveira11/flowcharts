@@ -52,7 +52,7 @@
         <mxCell id="kz-f4gQek6T-iXyx_C5O-26" value="Pedido" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="529" y="280" width="96" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kz-f4gQek6T-iXyx_C5O-30" value="Lambda&lt;div&gt;CreateMagnum&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="kz-f4gQek6T-iXyx_C5O-30" value="Lambda&lt;div&gt;CreateMagnumOrder&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="534" y="60" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kz-f4gQek6T-iXyx_C5O-31" value="Pedido" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
