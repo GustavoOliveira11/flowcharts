@@ -87,8 +87,10 @@
         <mxCell id="kz-f4gQek6T-iXyx_C5O-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kz-f4gQek6T-iXyx_C5O-46" target="kz-f4gQek6T-iXyx_C5O-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kz-f4gQek6T-iXyx_C5O-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kz-f4gQek6T-iXyx_C5O-46" target="kz-f4gQek6T-iXyx_C5O-69">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kz-f4gQek6T-iXyx_C5O-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kz-f4gQek6T-iXyx_C5O-46" target="kz-f4gQek6T-iXyx_C5O-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-130" y="410.0000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kz-f4gQek6T-iXyx_C5O-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="305" width="200" height="210" as="geometry" />
@@ -114,11 +116,17 @@
         <mxCell id="kz-f4gQek6T-iXyx_C5O-67" value="Cria Pedido na transportadora" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="98.5" y="460" width="123" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kz-f4gQek6T-iXyx_C5O-69" value="RODONAVES" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="kz-f4gQek6T-iXyx_C5O-71" value="Pedido de transporte" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-120" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kz-f4gQek6T-iXyx_C5O-73" value="Lambda&lt;div&gt;CreateNotification&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="290" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kz-f4gQek6T-iXyx_C5O-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-327" y="337.5" width="200" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="kz-f4gQek6T-iXyx_C5O-76" value="Envia a solicitação para a RODONAVES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-292" y="395" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
