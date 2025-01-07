@@ -10,9 +10,6 @@
         <mxCell id="zd_mETxT3Hom4_Nt144h-1" value="Cliente faz pedido" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X5MFcecDnW7EVMNdHlIu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X5MFcecDnW7EVMNdHlIu-1" target="X5MFcecDnW7EVMNdHlIu-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="X5MFcecDnW7EVMNdHlIu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X5MFcecDnW7EVMNdHlIu-1" target="X5MFcecDnW7EVMNdHlIu-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -24,15 +21,6 @@
         </mxCell>
         <mxCell id="X5MFcecDnW7EVMNdHlIu-4" value="Pedido" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="30" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="X5MFcecDnW7EVMNdHlIu-5" value="Emite a nota" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="590" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="X5MFcecDnW7EVMNdHlIu-7" value="Pedido - Pagamento aprovado" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="30" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="X5MFcecDnW7EVMNdHlIu-8" value="Compre sua peça" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="10" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X5MFcecDnW7EVMNdHlIu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X5MFcecDnW7EVMNdHlIu-9" target="X5MFcecDnW7EVMNdHlIu-17">
           <mxGeometry relative="1" as="geometry" />
