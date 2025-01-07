@@ -119,7 +119,7 @@
         <mxCell id="kz-f4gQek6T-iXyx_C5O-71" value="Pedido de transporte" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-120" y="380" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kz-f4gQek6T-iXyx_C5O-73" value="Lambda&lt;div&gt;CreateNotification&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="kz-f4gQek6T-iXyx_C5O-73" value="Lambda&lt;div&gt;CreateRequestTransport&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-270" y="290" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kz-f4gQek6T-iXyx_C5O-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
