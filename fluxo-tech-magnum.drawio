@@ -31,8 +31,8 @@
         <mxCell id="2zczGr-va-qwcwLliaHw-7" value="Produto mapeado" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="30" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2zczGr-va-qwcwLliaHw-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Observação&lt;/h1&gt;&lt;div&gt;Mapeamento tem que demorar no máximo 2s&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="100" width="160" height="80" as="geometry" />
+        <mxCell id="2zczGr-va-qwcwLliaHw-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Observação&lt;/h1&gt;&lt;div&gt;Esse ciclo de dados deve durar no máximo 2 segundo.&lt;/div&gt;&lt;div&gt;Quanto mais rápido melhor.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="90" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="2zczGr-va-qwcwLliaHw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2zczGr-va-qwcwLliaHw-9" target="2zczGr-va-qwcwLliaHw-22">
           <mxGeometry relative="1" as="geometry" />
