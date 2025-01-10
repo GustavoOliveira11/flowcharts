@@ -135,7 +135,7 @@
         <mxCell id="h7239qkk3jvsULKhZbue-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="h7239qkk3jvsULKhZbue-2" target="h7239qkk3jvsULKhZbue-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h7239qkk3jvsULKhZbue-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="h7239qkk3jvsULKhZbue-2" target="h7239qkk3jvsULKhZbue-28">
+        <mxCell id="h7239qkk3jvsULKhZbue-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="h7239qkk3jvsULKhZbue-2" target="h7239qkk3jvsULKhZbue-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="455" y="730" />
@@ -193,7 +193,7 @@
         <mxCell id="h7239qkk3jvsULKhZbue-27" value="Pedido" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="44.5" y="870" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h7239qkk3jvsULKhZbue-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h7239qkk3jvsULKhZbue-28" target="h7239qkk3jvsULKhZbue-2">
+        <mxCell id="h7239qkk3jvsULKhZbue-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h7239qkk3jvsULKhZbue-28" target="h7239qkk3jvsULKhZbue-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="215" y="730" />
