@@ -222,7 +222,7 @@
           <mxGeometry x="654" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h7239qkk3jvsULKhZbue-44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Lambda&lt;/h1&gt;&lt;div&gt;Criar 3 lambdas diferentes no mesmo Gateway para poder chamar as funções de acordo com o que vai ser recebido&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="9.5" y="590" width="130" height="140" as="geometry" />
+          <mxGeometry x="9.5" y="610" width="130" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
