@@ -100,6 +100,9 @@
         <mxCell id="h7239qkk3jvsULKhZbue-2" value="Minha API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="h7239qkk3jvsULKhZbue-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h7239qkk3jvsULKhZbue-5" target="h7239qkk3jvsULKhZbue-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h7239qkk3jvsULKhZbue-5" value="Magnum" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="89" y="610" width="120" height="60" as="geometry" />
         </mxCell>
@@ -108,6 +111,12 @@
         </mxCell>
         <mxCell id="h7239qkk3jvsULKhZbue-9" value="Conta Azul" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="380" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h7239qkk3jvsULKhZbue-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="h7239qkk3jvsULKhZbue-11" target="h7239qkk3jvsULKhZbue-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7239qkk3jvsULKhZbue-11" value="Produto Faturado" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="94" y="780" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
