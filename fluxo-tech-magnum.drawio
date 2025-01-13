@@ -224,6 +224,9 @@
         <mxCell id="h7239qkk3jvsULKhZbue-44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Lambda&lt;/h1&gt;&lt;div&gt;Criar 3 lambdas diferentes no mesmo Gateway para poder chamar as funções de acordo com o que vai ser recebido&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="9.5" y="610" width="130" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="4zZhFZIbdsRwXIEFk-Ln-1" value="Você está aqui&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="155" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
