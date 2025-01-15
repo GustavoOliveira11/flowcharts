@@ -187,9 +187,6 @@
         <mxCell id="h7239qkk3jvsULKhZbue-25" value="Pedido Faturado" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="168.5" y="990" width="106" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h7239qkk3jvsULKhZbue-26" value="Peido" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="244.5" y="760" width="99" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="h7239qkk3jvsULKhZbue-27" value="Pedido" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="44.5" y="870" width="60" height="30" as="geometry" />
         </mxCell>
@@ -229,6 +226,15 @@
         </mxCell>
         <mxCell id="JLs4M8Y_g-yFLiTVrAUI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h7239qkk3jvsULKhZbue-28" target="JLs4M8Y_g-yFLiTVrAUI-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLs4M8Y_g-yFLiTVrAUI-4" value="MeuIDPedido" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="284" y="700" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JLs4M8Y_g-yFLiTVrAUI-5" value="JSONPedido" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="292" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JLs4M8Y_g-yFLiTVrAUI-6" value="JSONPedido" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="249" y="760" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
