@@ -91,9 +91,6 @@
         <mxCell id="h7239qkk3jvsULKhZbue-1" value="VTEX" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="653.5" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h7239qkk3jvsULKhZbue-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h7239qkk3jvsULKhZbue-2" target="h7239qkk3jvsULKhZbue-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="h7239qkk3jvsULKhZbue-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.825;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="h7239qkk3jvsULKhZbue-2" target="h7239qkk3jvsULKhZbue-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="494.5" y="830" as="sourcePoint" />
@@ -102,14 +99,6 @@
               <mxPoint x="494.5" y="870" />
               <mxPoint x="584.5" y="870" />
               <mxPoint x="584.5" y="970" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h7239qkk3jvsULKhZbue-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h7239qkk3jvsULKhZbue-2" target="h7239qkk3jvsULKhZbue-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="424.5" y="850" />
-              <mxPoint x="424.5" y="850" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -155,14 +144,13 @@
         <mxCell id="h7239qkk3jvsULKhZbue-7" value="Json de Pedido" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="544.5" y="760" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h7239qkk3jvsULKhZbue-9" value="Conta Azul" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="394.5" y="940" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="h7239qkk3jvsULKhZbue-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="h7239qkk3jvsULKhZbue-11" target="h7239qkk3jvsULKhZbue-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="274.5" y="985" />
-              <mxPoint x="274.5" y="805" />
+              <mxPoint x="275" y="985" />
+              <mxPoint x="275" y="830" />
+              <mxPoint x="370" y="830" />
+              <mxPoint x="370" y="805" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -177,12 +165,6 @@
         </mxCell>
         <mxCell id="h7239qkk3jvsULKhZbue-21" value="Cotação de frete" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="574.5" y="880" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="h7239qkk3jvsULKhZbue-22" value="Criação da nota" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="457.25" y="900" width="101" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="h7239qkk3jvsULKhZbue-24" value="Atualização da nota" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="309.5" y="860" width="114" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h7239qkk3jvsULKhZbue-25" value="Pedido Faturado" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="168.5" y="990" width="106" height="30" as="geometry" />
@@ -234,7 +216,7 @@
           <mxGeometry x="292" y="730" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JLs4M8Y_g-yFLiTVrAUI-6" value="JSONPedido" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="249" y="760" width="60" height="30" as="geometry" />
+          <mxGeometry x="239.5" y="760" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
