@@ -222,6 +222,12 @@
         <mxCell id="citqePC5oyJYDPQVF7V5-5" value="JSONPedido" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="329" y="760" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aSIb9iDVkAmD6NEhKwY5-2" value="Bloqueado" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="734" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aSIb9iDVkAmD6NEhKwY5-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="579" y="530" width="370" height="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
