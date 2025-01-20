@@ -161,7 +161,7 @@ Exemplo de resposta para que a inclusão foi concluida - **200 OK**
   {
     "order_id": "11724529007880199",
     "site_order_code": "Valor fixo",
-    "date: "2024-02-04T20:09:43.899958+00:00",
+    "date": "2024-02-04T20:09:43.899958+00:00",
     "status_code": "handling",
     "protocol": "Não tenho ainda",
     "partner_order_code": "Valor fixo",
