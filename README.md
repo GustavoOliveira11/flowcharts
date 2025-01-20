@@ -171,7 +171,7 @@ Exemplo de resposta com a lista de ordens - **200 OK**
 ```
 ### Buscar lista de ordens {117245290078801776}
 
-```
+``` json
 {
   "note_observation": "string",
   "discount_value": 0,
@@ -196,7 +196,7 @@ Exemplo de resposta com a lista de ordens - **200 OK**
     }
   ],
   "discount_list": [],
-  "status_record": "{"purchased_at":"2024-02-04T20:09:43.899958+00:00"}",
+  "status_record": {"purchased_at":"2024-02-04T20:09:43.899958+00:00"},
   "partner_order_code": "1172452900788-01",
   "payment": { "plot_amount": 0, "flag": "string", "payment_options": "string" },
   "document_intermediator": "4574467654",
@@ -228,14 +228,14 @@ Exemplo de resposta com a lista de ordens - **200 OK**
   "tax_engine": "string",
   "customer": {
     "name": "Rodrigo Smith",
-    "gender": '',
-    "type": 'cpf',
+    "gender": "",
+    "type": "cpf",
     "document_number": "845.134.270-19",
     "identity_number": "845.134.270-19",
     "email": "rodrigo.smith@email.com",
     "corporate_name": null,
     "state_registration": null,
-    "born_at": '',
+    "born_at": "",
     "billing": {
       "postal_code": "22630-011",
       "address": "Avenida Lúcio Costa",
